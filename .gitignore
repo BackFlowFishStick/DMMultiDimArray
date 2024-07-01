@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# JetBrain folder
+.idea
+
+# Visual Studio folder
+.vs

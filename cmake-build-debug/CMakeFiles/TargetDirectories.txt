@@ -1,0 +1,3 @@
+D:/CPPPractices/DMMultiDimArray/cmake-build-debug/CMakeFiles/DMMultiDimArray.dir
+D:/CPPPractices/DMMultiDimArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CPPPractices/DMMultiDimArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
